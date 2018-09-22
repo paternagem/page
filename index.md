@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+# Paternagem
+## Tudo sobre pais
 
-You can use the [editor on GitHub](https://github.com/paternagem/page/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Este é um site informativo procupado com o bem estar do pai.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
