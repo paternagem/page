@@ -1,12 +1,12 @@
 ---
 layout: post
-title: What's Jekyll?
+title: O que é Paternagem?
 ---
 
-[Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
+<div style="text-align: justify"> 
+Paternagem é um estilo de vida, é uma atitude paterna, é mais que o desejo de estar presente no desenvolvimento de seu filho.
 
-  > Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
 
-It's an immensely useful tool and one we encourage you to use here with Hyde.
+Esta é a primeira postagem desse blog. Acompanhe o desenrolar dessa história com postagens semanais voltados para o público paterno.
 
-Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
+
