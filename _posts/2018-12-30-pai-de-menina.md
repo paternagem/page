@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Livro: Pai de Menina
+title: Pai de Menina
 ---
 
 <div style="text-align: justify"> 
